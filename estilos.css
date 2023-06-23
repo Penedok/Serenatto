@@ -31,3 +31,7 @@ input[type="checkbox"]:focus {
   background-position: center;
   background-attachment: fixed; /*a imagem fica fixa no corpo o nome desse efeito é paralax*/
 }
+.banners-titulo{
+  --bs-bg-opacity: .2   /*variavel do bst para deixar opaco o fundo */
+
+}
