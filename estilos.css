@@ -35,3 +35,28 @@ input[type="checkbox"]:focus {
   --bs-bg-opacity: .2   /*variavel do bst para deixar opaco o fundo */
 
 }
+.cards{
+  display: flex;
+}
+.titulo-cards{
+  text-align: center;
+}
+.banner-2{
+  background: url("./assets/banner-2.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed; /*a imagem fica fixa no corpo o nome desse efeito é paralax*/
+}
+.cards-imagens{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.banner-3{
+  background: url("/assets/banner-3.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed; 
+}
