@@ -60,3 +60,6 @@ input[type="checkbox"]:focus {
   background-position: center;
   background-attachment: fixed; 
 }
+.titulo-canvas{
+  background-color: #B29463;
+}
