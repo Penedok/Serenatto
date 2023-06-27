@@ -19,6 +19,11 @@ input[type="checkbox"]:focus {
   box-shadow: none;
   outline: none;
 }
+.input-range::-webkit-slider-thumb, footer {
+  background-color: #B29463;
+}
+
+
 .banner-1{
   background: url("./assets/banner-1.png");
 
@@ -35,11 +40,12 @@ input[type="checkbox"]:focus {
   --bs-bg-opacity: .2   /*variavel do bst para deixar opaco o fundo */
 
 }
-.cards{
-  display: flex;
+.botao-padrao{
+  background-color: var(--marrom-claro);
+  color: black;
 }
-.titulo-cards{
-  text-align: center;
+.botao-padrao:hover{
+  background-color: var(--marrom-escuro);
 }
 .banner-2{
   background: url("./assets/banner-2.png");
@@ -60,6 +66,17 @@ input[type="checkbox"]:focus {
   background-position: center;
   background-attachment: fixed; 
 }
-.titulo-canvas{
-  background-color: #B29463;
+[data-bs-theme="dark"]{
+  color:aliceblue;
+.nav-link, .card-body, .offcanvas, .accordion, .btn {
+  --bs-nav-link-color:white;
+  --bs-card-color:white;
+  --bs-offcanvas-color:white;
+  --bs-body-color:white;
+
+}
+
+
+
+
 }
