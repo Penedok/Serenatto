@@ -1,6 +1,7 @@
 # Projeto Web
 ##### Demo
-![ezgif com-video-to-gif (1)](https://github.com/Penedok/e-commerce-musical/assets/101909876/9284a2e5-9cea-47c5-835c-9de53265cbec)
+![ezgif com-video-to-gif (4)](https://github.com/Penedok/Serenatto/assets/101909876/338aa01b-6db7-4d73-9c34-18e585f85a98)
+
 
  - Projeto final bootstrap que desenvolvi  do curso da Alura 
 
